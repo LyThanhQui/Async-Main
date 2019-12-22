@@ -1,0 +1,10 @@
+H:\demo dotnettutorials\3. C# 7.X new Features\Async Main\Async Main\obj\Debug\netcoreapp2.1\Async Main.csproj.CoreCompileInputs.cache
+H:\demo dotnettutorials\3. C# 7.X new Features\Async Main\Async Main\obj\Debug\netcoreapp2.1\Async Main.AssemblyInfoInputs.cache
+H:\demo dotnettutorials\3. C# 7.X new Features\Async Main\Async Main\obj\Debug\netcoreapp2.1\Async Main.AssemblyInfo.cs
+H:\demo dotnettutorials\3. C# 7.X new Features\Async Main\Async Main\bin\Debug\netcoreapp2.1\Async Main.deps.json
+H:\demo dotnettutorials\3. C# 7.X new Features\Async Main\Async Main\bin\Debug\netcoreapp2.1\Async Main.runtimeconfig.json
+H:\demo dotnettutorials\3. C# 7.X new Features\Async Main\Async Main\bin\Debug\netcoreapp2.1\Async Main.runtimeconfig.dev.json
+H:\demo dotnettutorials\3. C# 7.X new Features\Async Main\Async Main\bin\Debug\netcoreapp2.1\Async Main.dll
+H:\demo dotnettutorials\3. C# 7.X new Features\Async Main\Async Main\bin\Debug\netcoreapp2.1\Async Main.pdb
+H:\demo dotnettutorials\3. C# 7.X new Features\Async Main\Async Main\obj\Debug\netcoreapp2.1\Async Main.dll
+H:\demo dotnettutorials\3. C# 7.X new Features\Async Main\Async Main\obj\Debug\netcoreapp2.1\Async Main.pdb
